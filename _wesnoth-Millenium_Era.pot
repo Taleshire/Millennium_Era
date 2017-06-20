@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: %F %R%z\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [era]: id=millenium_aoh
+#: eras/millenium_era_aoh.cfg:4
+msgid "Millenium Heroes Era"
+msgstr ""
+
+#. [era]: id=millenium_default
+#: eras/millenium_era_default.cfg:4
+msgid "Millenium Era"
+msgstr ""
+
+#. [multiplayer_side]: id=thelians_faction, type=random
+#: factions/thelians-aoh.cfg:5 factions/thelians-default.cfg:5
+msgid "Thelians"
+msgstr ""
+
+#. [multiplayer_side]: id=vampires_faction, type=random
+#: factions/vampires-aoh.cfg:5 factions/vampires-default.cfg:5
+msgid "Vampires"
+msgstr ""
+
+#. [race]: id=thelians
+#: units/human-thelians.cfg:5
+msgid "race^Thelian Human"
+msgstr ""
+
+#. [race]: id=thelians
+#: units/human-thelians.cfg:6
+msgid "race+female^Thelian Human"
+msgstr ""
+
+#. [race]: id=thelians
+#: units/human-thelians.cfg:7
+msgid "race+plural^Thelians"
+msgstr ""
+
+#. [unit_type]: id=Thelian Deer Rider, race=thelians
+#: units/human-thelians/1_Deer_Rider.cfg:5
+msgid "Deer Rider"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/human-thelians/1_Deer_Rider.cfg:24 units/human-thelians/2_Hart_Seeker.cfg:24
+msgid "antlers"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/human-thelians/1_Deer_Rider.cfg:34 units/human-thelians/1_Hunter.cfg:33 units/human-thelians/2_Deerstalker.cfg:33 units/human-thelians/2_Hart_Seeker.cfg:34 units/human-thelians/3_Nimrod.cfg:38 units/vampires/1_Thinblood.cfg:34 units/vampires/2_Halfblood.cfg:34 units/vampires/3_Twilight_Walker.cfg:35
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Thelian Feral, race=thelians
+#: units/human-thelians/1_Feral.cfg:5
+msgid "Feral"
+msgstr ""
+
+#. [attack]: type=arcane
+#: units/human-thelians/1_Feral.cfg:21 units/human-thelians/2_Wolf_Fanatic.cfg:25 units/human-thelians/3_Ghost_Warrior.cfg:30
+msgid "ghostclaw"
+msgstr ""
+
+#. [unit_type]: id=Thelian Hunter, race=thelians
+#: units/human-thelians/1_Hunter.cfg:5
+msgid "Hunter"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/human-thelians/1_Hunter.cfg:23 units/human-thelians/2_Deerstalker.cfg:23
+msgid "dagger"
+msgstr ""
+
+#. [unit_type]: id=Thelian Shaman, race=thelians
+#: units/human-thelians/1_Shaman.cfg:4
+msgid "Shaman"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/human-thelians/1_Shaman.cfg:26 units/human-thelians/2_Blood_Shaman.cfg:26 units/human-thelians/2_Druid.cfg:30 units/human-thelians/3_Master_of_Curses.cfg:27 units/human-thelians/3_Spiritual.cfg:31
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/human-thelians/1_Shaman.cfg:36 units/human-thelians/2_Blood_Shaman.cfg:36 units/human-thelians/3_Master_of_Curses.cfg:37
+msgid "curse"
+msgstr ""
+
+#. [unit_type]: id=Thelian Warrior, race=thelians
+#. [unit_type]: id=Vampire Warrior, race=vampires
+#: units/human-thelians/1_Warrior.cfg:5 units/vampires/3_Warrior.cfg:4
+msgid "Warrior"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/human-thelians/1_Warrior.cfg:22 units/human-thelians/2_Chieftain.cfg:27 units/human-thelians/2_Spearman.cfg:25 units/human-thelians/3_Brave_Wolf.cfg:28 units/human-thelians/3_Guardian.cfg:26
+msgid "spear"
+msgstr ""
+
+#. [unit_type]: id=Thelian Blood Shaman, race=thelians
+#: units/human-thelians/2_Blood_Shaman.cfg:4
+msgid "Blood Shaman"
+msgstr ""
+
+#. [unit_type]: id=Thelian Chieftain, race=thelians
+#: units/human-thelians/2_Chieftain.cfg:5
+msgid "Chieftain"
+msgstr ""
+
+#. [attack]: type=blade
+#: units/human-thelians/2_Chieftain.cfg:40 units/human-thelians/3_Brave_Wolf.cfg:41 units/human-thelians/3_Nimrod.cfg:28 units/vampires/1_Vampire.cfg:21 units/vampires/2_Fighter.cfg:21 units/vampires/2_Fullblood.cfg:25 units/vampires/3_Noble.cfg:25 units/vampires/3_Warrior.cfg:22 units/vampires/4_Sire.cfg:26
+msgid "sword"
+msgstr ""
+
+#. [unit_type]: id=Thelian Deerstalker, race=thelians
+#: units/human-thelians/2_Deerstalker.cfg:5
+msgid "Deerstalker"
+msgstr ""
+
+#. [unit_type]: id=Thelian Druid, race=thelians
+#: units/human-thelians/2_Druid.cfg:5
+msgid "Druid"
+msgstr ""
+
+#. [attack]: type=fire
+#: units/human-thelians/2_Druid.cfg:40 units/human-thelians/3_Spiritual.cfg:41 units/spirits/1_Spirit.cfg:34 units/spirits/2_Ancestor.cfg:34 units/spirits/3_Forefather.cfg:35
+msgid "fireball"
+msgstr ""
+
+#. [unit_type]: id=Thelian Hart Seeker, race=thelians
+#: units/human-thelians/2_Hart_Seeker.cfg:5
+msgid "Hart Seeker"
+msgstr ""
+
+#. [unit_type]: id=Thelian Spearman, race=thelians
+#: units/human-thelians/2_Spearman.cfg:5
+msgid "Spearman"
+msgstr ""
+
+#. [unit_type]: id=Thelian Wolf Fanatic, race=thelians
+#: units/human-thelians/2_Wolf_Fanatic.cfg:5
+msgid "Wolf Fanatic"
+msgstr ""
+
+#. [unit_type]: id=Thelian Brave Wolf, race=thelians
+#: units/human-thelians/3_Brave_Wolf.cfg:5
+msgid "Brave Wolf"
+msgstr ""
+
+#. [unit_type]: id=Thelian Ghost Warrior, race=thelians
+#: units/human-thelians/3_Ghost_Warrior.cfg:5
+msgid "Ghost Warrior"
+msgstr ""
+
+#. [unit_type]: id=Thelian Guardian, race=thelians
+#: units/human-thelians/3_Guardian.cfg:5
+msgid "Guardian"
+msgstr ""
+
+#. [unit_type]: id=Thelian Master Of Curses, race=thelians
+#: units/human-thelians/3_Master_of_Curses.cfg:4
+msgid "Master Of Curses"
+msgstr ""
+
+#. [unit_type]: id=Thelian Nimrod, race=thelians
+#: units/human-thelians/3_Nimrod.cfg:5
+msgid "Nimrod"
+msgstr ""
+
+#. [unit_type]: id=Thelian Spiritual, race=thelians
+#: units/human-thelians/3_Spiritual.cfg:5
+msgid "Spiritual"
+msgstr ""
+
+#. [race]: id=spirits
+#: units/spirits.cfg:6
+msgid "race^Spirit"
+msgstr ""
+
+#. [race]: id=spirits
+#: units/spirits.cfg:7
+msgid "race+female^Spirit"
+msgstr ""
+
+#. [race]: id=spirits
+#: units/spirits.cfg:8
+msgid "race^Spirits"
+msgstr ""
+
+#. [unit_type]: id=Thelian Spirit, race=spirits
+#: units/spirits/1_Spirit.cfg:4
+msgid "Spirit"
+msgstr ""
+
+#. [attack]: type=fire
+#: units/spirits/1_Spirit.cfg:24 units/spirits/2_Ancestor.cfg:24 units/spirits/3_Forefather.cfg:25
+msgid "fire aura"
+msgstr ""
+
+#. [unit_type]: id=Thelian Ancestor, race=spirits
+#: units/spirits/2_Ancestor.cfg:4
+msgid "Ancestor"
+msgstr ""
+
+#. [unit_type]: id=Thelian Forefather, race=spirits
+#: units/spirits/3_Forefather.cfg:4
+msgid "Forefather"
+msgstr ""
+
+#: units/vampires.cfg:5
+msgid "Abel,Aleron,Aldon,Altair,Alumit,Amaia,Amarande,Ambrose,Amdis,Andros,Ashling,Athan,Bakarne,Bela,Beval,Bian,Blaine,Braeden,Brandeis,Brendan,Brone,Bronwen,Carden,Cian,Corbin,Damalis,Damian,Danton,Daray,Delano,Donn,Dunkan,Eamen,Gustaff,Heath,Heathcliff,Ingrum,Jareth,Kaevan,Karayan,Kern,Kieran,Lucine,Marlin,Nelo,Parris,Raven,Rune,Savan,Sumnor,Tainn,Tariq,Tristram,Vega,Wynn,Lestat,Louis,Armand,Amadeo,Santiago,Marius,Magnus,David,Enkil,Mael,Santino,Vittorio,Thorne,Avicus,Felix,Laurent,Daniel,Khayman,Tarquin,Quinn,Vladimir,Vlad,Ansel,Anwar,Arden,Ashe,Ashford,Ashlin,Bairde,Barnabas,Bentley,Brishen,Connor,Crevan,Dante,Flynne,Gavin,Hewitt,Holt,Jacy,Jolon,Kasch,Lucyan,Morgyn,Pembroke,Quillan,Quinn,Riordin,Rowan,Sylvain,Taban,Teague,Wendell"
+msgstr ""
+
+#: units/vampires.cfg:6
+msgid "Aislinn,Alana,Alaura,Aleta,Alethea,Alma,Amaris,Amaryllis,Amaya,Ambrosine,Araxie,Ariana,Autumn,Badria,Blythe,Brenna,Busana,Cascata,Celine,Ceridwen,Chandra,Damarys,Denisha,Devin,Erela,Fala,Fanya,Hazelle,Isadora,Iva,Javan,Jenessa,Jora,Jordyn,Jovana,Kamalia,Kalyca,Kavindra,Kestrel,Kynthia,Laqueta,Layla,Leandra,Leigh,Livana,Naida,Neesha,Nevada,Oleta,Parkyr,Philomina,Pyralis,Rayne,Risa,Rosalia,Salena,Seda,Shahar,Shea,Silva,Silvana,Tabitha,Tacita,Tara,Tatiana,Tayce,Vala,Valonia,Vesta,Vidonia,Waneta,Wyntir,Yepa,Yolanda,Yoninah,Zyta,Adara,Adena,Adrianne,Alarice,Alvita,Amara,Ambika,Antonia,Araceli,Balandria,Basha,Beryl,Bryn,Callia,Caryssa,Cassandra,Casondrah,Chatha,Ciara,Cynara,Cytheria,Dabria,Darcei,Deandra,Deirdre,Delores,Desdomna,Devi,Drucilla,Duvessa,Fantine,Fuscienne,Gabi,Gallia,Hanna,Hedda,Jerica,Jetta,Joby,Kacila,Kala,Kallie,Keelia,Killian,Kory,Lilith,Lucretia,Lysha,Mercedes,Mia,Maura,Perdita,Quella,Riona,Safiya,Salina,Severin,Sidonia,Sirena,Solita,Tempest,Thea,Treva,Trista,Vala,Winta"
+msgstr ""
+
+#. [race]: id=vampires
+#: units/vampires.cfg:13
+msgid "race^Vampire"
+msgstr ""
+
+#. [race]: id=vampires
+#: units/vampires.cfg:14
+msgid "race+female^Vampiress"
+msgstr ""
+
+#. [race]: id=vampires
+#: units/vampires.cfg:15
+msgid "race^Vampires"
+msgstr ""
+
+#. [unit_type]: id=Vampire Bitten, race=vampires
+#: units/vampires/0_Bitten.cfg:4
+msgid "Bitten"
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=pierce
+#: units/vampires/0_Bitten.cfg:27 units/vampires/1_Apprentice.cfg:21 units/vampires/1_Blood_Addict.cfg:31 units/vampires/1_Thinblood.cfg:21 units/vampires/1_Vampire.cfg:31 units/vampires/2_Fighter.cfg:34 units/vampires/2_Halfblood.cfg:21 units/vampires/2_Lunatic.cfg:35 units/vampires/2_Manipulator.cfg:21 units/vampires/3_Ogress.cfg:36 units/vampires/3_Sangel.cfg:22 units/vampires/3_Twilight_Walker.cfg:22 units/vampires/3_Warrior.cfg:35 units/wolves/0_Young_Wolf.cfg:26 units/wolves/1_Wolf.cfg:26 units/wolves/2_Dire_Wolf.cfg:27
+msgid "fangs"
+msgstr ""
+
+#. [unit_type]: id=Vampire Apprentice, race=vampires
+#: units/vampires/1_Apprentice.cfg:4
+msgid "Apprentice"
+msgstr ""
+
+#. [attack]: type=fire
+#: units/vampires/1_Apprentice.cfg:34 units/vampires/2_Manipulator.cfg:34 units/vampires/3_Sangel.cfg:35
+msgid "blood boil"
+msgstr ""
+
+#. [attack]: type=arcane
+#: units/vampires/1_Apprentice.cfg:47 units/vampires/2_Manipulator.cfg:47 units/vampires/3_Sangel.cfg:48
+msgid "shadow wave"
+msgstr ""
+
+#. [unit_type]: id=Vampire Blood Addict, race=vampires
+#: units/vampires/1_Blood_Addict.cfg:4
+msgid "Blood Addict"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/vampires/1_Blood_Addict.cfg:21 units/vampires/2_Lunatic.cfg:25 units/vampires/3_Ogress.cfg:26
+msgid "fist"
+msgstr ""
+
+#. [unit_type]: id=Vampire Thinblood, race=vampires
+#: units/vampires/1_Thinblood.cfg:4
+msgid "Thinblood"
+msgstr ""
+
+#. [unit_type]: id=Vampire, race=vampires
+#: units/vampires/1_Vampire.cfg:4
+msgid "Vampire"
+msgstr ""
+
+#. [unit_type]: id=Vampire Fighter, race=vampires
+#: units/vampires/2_Fighter.cfg:4
+msgid "Fighter"
+msgstr ""
+
+#. [unit_type]: id=Vampire Fullblood, race=vampires
+#: units/vampires/2_Fullblood.cfg:4
+msgid "Fullblood"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/vampires/2_Fullblood.cfg:35 units/vampires/3_Noble.cfg:35 units/vampires/4_Sire.cfg:36
+msgid "Fangs"
+msgstr ""
+
+#. [unit_type]: id=Vampire Halfblood, race=vampires
+#: units/vampires/2_Halfblood.cfg:4
+msgid "Halfblood"
+msgstr ""
+
+#. [unit_type]: id=Vampire Lunatic, race=vampires
+#: units/vampires/2_Lunatic.cfg:4
+msgid "Lunatic"
+msgstr ""
+
+#. [unit_type]: id=Vampire Manipulator, race=vampires
+#: units/vampires/2_Manipulator.cfg:4
+msgid "Manipulator"
+msgstr ""
+
+#. [unit_type]: id=Vampire Noble, race=vampires
+#: units/vampires/3_Noble.cfg:4
+msgid "Noble"
+msgstr ""
+
+#. [attack]: type=arcane
+#: units/vampires/3_Noble.cfg:49 units/vampires/4_Sire.cfg:50
+msgid "dementia gaze"
+msgstr ""
+
+#. [unit_type]: id=Vampire Ogress, race=vampires
+#: units/vampires/3_Ogress.cfg:4
+msgid "Ogress"
+msgstr ""
+
+#. [unit_type]: id=Vampire Sangel, race=vampires
+#: units/vampires/3_Sangel.cfg:4
+msgid "Sangel"
+msgstr ""
+
+#. [unit_type]: id=Vampire Twilight Walker, race=vampires
+#: units/vampires/3_Twilight_Walker.cfg:4
+msgid "Twilight Walker"
+msgstr ""
+
+#. [unit_type]: id=Vampire Sire, race=vampires
+#: units/vampires/4_Sire.cfg:4
+msgid "Sire"
+msgstr ""
+
+#. [unit_type]: id=Thelian Young Wolf, race=wolf
+#: units/wolves/0_Young_Wolf.cfg:4
+msgid "Young Wolf"
+msgstr ""
+
+#. [unit_type]: id=Thelian Wolf, race=wolf
+#: units/wolves/1_Wolf.cfg:4
+msgid "Wolf"
+msgstr ""
+
+#. [unit_type]: id=Thelian Dire Wolf, race=wolf
+#: units/wolves/2_Dire_Wolf.cfg:4
+msgid "Dire Wolf"
+msgstr ""
+
+#. [plague]: id=vampirism, type=Vampire Bitten
+#: utils/abilities.cfg:6
+msgid "vampirism"
+msgstr ""
+
+#. [plague]: id=vampirism, type=Vampire Bitten
+#: utils/abilities.cfg:7
+msgid "When a unit is killed by a vampirism attack, that unit is replaced with a Vampire Bitten on the same side as the unit with the vampirism attack. This doesn’t work on Undead or units in villages."
+msgstr ""
+
+#. [trait]: id=vampire
+#: utils/traits.cfg:8
+msgid "vampire"
+msgstr ""
+
+#. [trait]: id=vampire
+#: utils/traits.cfg:9
+msgid "female^vampire"
+msgstr ""
+
+#. [trait]: id=vampire
+#: utils/traits.cfg:10
+msgid "Immune to drain and plague"
+msgstr ""
+
+#. [trait]: id=obedient
+#: utils/traits.cfg:25
+msgid "obedient"
+msgstr ""
+
+#. [trait]: id=obedient
+#: utils/traits.cfg:26
+msgid "female^obedient"
+msgstr ""
+
+#. [trait]: id=obedient
+#: utils/traits.cfg:27
+msgid "Zero upkeep"
+msgstr ""
+
