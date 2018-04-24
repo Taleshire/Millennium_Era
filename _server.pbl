@@ -4,11 +4,17 @@ icon="attacks/thorns.png"
 version="1.0.6"
 author="Bitron"
 passphrase=24325886
-description= _  "Irdya's factions and races around from around 900 tp 1100 YW
+description= _  "Irdya's factions and races from around 900 tp 1100 YW
 Factions
+	Custom:
 	* Thelians
 	* Vampires
-	* Defaults"
+	Default:
+	* Loyalists
+	* Rebels
+	* Knalgan Alliance
+	* Northerners
+	* Undead"
 
 email="aaron.winter93@yahoo.de"
 [feedback]
