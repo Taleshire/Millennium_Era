@@ -1,4 +1,6 @@
-
 .project
 .wesnoth
+_server.pbl
+_wmlxgettext.pl
+_wesnoth-millenium-era.pot
 changelog.txt
