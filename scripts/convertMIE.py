@@ -4,9 +4,6 @@ from collections import defaultdict
 
 replacements = [
 	('#textdomain wesnoth-millennium-era','#textdomain wesnoth-Ageless_Era'),
-	('centaurfoot','AE_mie_centaurfoot'),
-	('vampfoot','AE_mie_vampfoot'),
-	('vampfloat','AE_mie_vampfloat'),
 
 	('[unit_type]','''[unit_type]
     description={AE_MIE_UNIT_NOTICE}'''),
