@@ -6,7 +6,7 @@ replacements = [
 	('#textdomain wesnoth-millennium-era','#textdomain wesnoth-Ageless_Era'),
 
 	('[unit_type]','''[unit_type]
-    description={AE_MIE_UNIT_NOTICE}'''),
+    description={AE_MIE_UNIT_NOTICE}'''), # Needs to be changed once a single unit has actual unit description, then all without should use NO_DESCR_AVAILABLE or similar
 	# ("""
     # description= _ ""","""
     # description={AE_MIE_UNIT_NOTICE}+ _ """),
